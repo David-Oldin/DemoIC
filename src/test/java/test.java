@@ -1,6 +1,6 @@
-class main {
+class test {
 	
-public main(String[] arg) {
+public test(String[] arg) {
 	
 		System.out.println("Hello world !!!!!!!");
 }
